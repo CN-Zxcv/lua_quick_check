@@ -1,6 +1,8 @@
 # lua_quick_check
 simple implement inspired by Test.QuickCheck(Haskell)
 
+simple demo, welcomed to change anything.
+
 # Example
 ```lua
 Player = Table({
